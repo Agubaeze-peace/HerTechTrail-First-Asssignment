@@ -1,10 +1,12 @@
+
+
 .imagename{
     font-size: medium;
     font-weight: bold;
     color: blueviolet;
     text-align: center;
  background-color: red;
- border-radius: 4px;
+ border-radius:4px;
    
 }
 #topic{
@@ -18,3 +20,19 @@
     text-align: center;
     margin-top: 10px;
 }
+.image{
+   background-color: black;
+   display: block;
+}
+image:hover{
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+}
+
+
+
+
+
+
